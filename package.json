@@ -1,0 +1,19 @@
+{
+  "name": "nodecms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenyichao@mana.com",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "ejs-mate": "^2.3.0",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.7",
+    "nodemailer-smtp-transport": "^2.7.4"
+  }
+}
